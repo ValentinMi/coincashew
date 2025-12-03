@@ -26,15 +26,15 @@ Monero nodes come in two flavours.
 
 * Dual-core CPU
 * 4+ GB RAM
-* 160GB+ SSD HD
+* 240GB+ SSD HD
 
 ### :robot: Minimum Pruned Node System Requirements <a href="#minimum-slasher-system-requirements" id="minimum-slasher-system-requirements"></a>
 
 * Same as full node yet with a smaller HD
-* 80GB+ SSD HD
+* 105GB+ SSD HD
 
 {% hint style="info" %}
-As of early 2021, a pruned node uses 32GB and a full node uses 96GB of storage space.
+In 2025, a pruned node uses ~95GB and a full node uses ~230GB of storage space.
 {% endhint %}
 
 ## :bricks: 1. Configuring ports and firewall
